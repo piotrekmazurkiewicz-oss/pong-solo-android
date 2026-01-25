@@ -8,3 +8,4 @@ Projekt wygenerowany z pomocą AI i dopracowany ręcznie.
 1. Sklonuj repozytorium  
    ```bash
    git clone https://github.com/piotrekmazurkiewicz-oss/pong-solo-android.git
+<img width="527" height="1131" alt="pongosolo" src="https://github.com/user-attachments/assets/6db061ed-22c9-4a4e-a03b-d92c31d5210f" />
