@@ -1,0 +1,48 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Gradle
+.gradle
+build/
+gradle/
+gradlew
+gradlew.bat
+
+# Local configuration
+local.properties
+
+# Built outputs
+*.apk
+*.ap_
+*.dex
+*.aab
+*.apks
+app/build/
+*/build/
+
+# Captures & logs
+captures/
+*.log
+
+# Keystores & secrets
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
+
+# NDK / native
+.externalNativeBuild/
+.cxx/
+*.o
+*.so
+*.a
+
+# Navigation & other temp
+.navigation/
+play-snapshot/
