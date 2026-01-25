@@ -27,7 +27,9 @@ app/build/outputs/apk/debug/app-debug.apk
 - Działa na Android 5+
 
 ## 📱 APK bezpośrednie
-[⬇️ Pobierz APK]([app-debug.apk](https://github.com/piotrekmazurkiewicz-oss/pong-solo-android/releases/download/v1.0/app-debug.apk)) – instaluj i graj!
+[⬇️ Pobierz APK v1.0](https://github.com/piotrekmazurkiewicz-oss/pong-solo-android/releases/download/v1.0/app-debug.apk)
+
+– instaluj i graj!
 
 ---
 © 2026 Piotr Mazurkiewicz | [MIT License](LICENSE)
