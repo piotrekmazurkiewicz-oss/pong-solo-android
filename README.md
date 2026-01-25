@@ -14,4 +14,25 @@ Projekt stworzony z pomocą AI i dopracowany ręcznie w Android Studio.
 
 ## 🚀 Jak uruchomić (2 minuty)
 
+1. **Build APK** w Android Studio:
+Build → Build Bundle/APK → Build APK
+
+2. **Zainstaluj APK**:
+app/build/outputs/apk/debug/app-debug.apk
+
+**Działa na Android 5+** – pełny ekran, dotykowe sterowanie!
+
+## ✨ Funkcje
+- Jedna paletka (screenWidth/7 szer.), cieńsza (50px), wyżej positioned
+- Piłka przyspiesza po każdym odbiciu (+0.5%)
+- Realistyczne kąty odbicia (hitPos * 150f)
+- Rekordy high score
+- 60 FPS Canvas rendering
+
+## 📱 APK bezpośrednie
+[⬇️ Pobierz APK](app-debug.apk) – instaluj i graj!
+
+---
+© 2026 Piotr Mazurkiewicz | [MIT License](LICENSE)
+
 
