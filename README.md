@@ -20,17 +20,14 @@ Build → Build Bundle/APK → Build APK
 2. **Zainstaluj APK**:
 app/build/outputs/apk/debug/app-debug.apk
 
-**Działa na Android 5+** – pełny ekran, dotykowe sterowanie!
-
 ## ✨ Funkcje
-- Jedna paletka (screenWidth/7 szer.), cieńsza (50px), wyżej positioned
-- Piłka przyspiesza po każdym odbiciu (+0.5%)
-- Realistyczne kąty odbicia (hitPos * 150f)
-- Rekordy high score
-- 60 FPS Canvas rendering
+- Jedna paletka sterowana dotykiem
+- Piłka przyspiesza po każdym odbiciu  
+- Cieńsza paletka (50px), realistyczne kąty
+- Działa na Android 5+
 
 ## 📱 APK bezpośrednie
-[⬇️ Pobierz APK](app-debug.apk) – instaluj i graj!
+[⬇️ Pobierz APK]([app-debug.apk](https://github.com/piotrekmazurkiewicz-oss/pong-solo-android/releases/download/v1.0/app-debug.apk)) – instaluj i graj!
 
 ---
 © 2026 Piotr Mazurkiewicz | [MIT License](LICENSE)
