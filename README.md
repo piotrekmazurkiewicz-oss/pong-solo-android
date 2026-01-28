@@ -9,6 +9,7 @@
 
 ## 🏆 **REKORD ŚWIATA: 23 ** 
 **Pobij mój rekord i dołącz do elity Pong Solo!** ⬆️
+
 Projekt stworzony z pomocą AI i dopracowany ręcznie w Android Studio.
 
 ## 🚀 Jak uruchomić (2 minuty)
