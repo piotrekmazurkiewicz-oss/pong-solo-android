@@ -23,7 +23,7 @@ app/build/outputs/apk/debug/app-debug.apk
 ## ✨ Funkcje
 - Jedna paletka sterowana dotykiem
 - Piłka przyspiesza po każdym odbiciu  
-- Cieńsza paletka (50px), realistyczne kąty
+- Realistyczne kąty
 - Działa na Android 5+
 
 ## 📱 APK bezpośrednie
