@@ -7,8 +7,9 @@
 
 <img width="263" height="565" alt="pongosolo" src="https://github.com/user-attachments/assets/6db061ed-22c9-4a4e-a03b-d92c31d5210f" />
 
-## 🏆 **REKORD ŚWIATA: 21** 
+## 🏆 **REKORD ŚWIATA: 23 ** 
 **Pobij mój rekord i dołącz do elity Pong Solo!** ⬆️
+
 
 Projekt stworzony z pomocą AI i dopracowany ręcznie w Android Studio.
 
