@@ -10,6 +10,7 @@
 ## 🏆 **REKORD ŚWIATA: 23 ** 
 **Pobij mój rekord i dołącz do elity Pong Solo!** ⬆️
 
+https://github.com/piotrekmazurkiewicz-oss/pong-solo-android/blob/main/rekord.jpg
 
 Projekt stworzony z pomocą AI i dopracowany ręcznie w Android Studio.
 
